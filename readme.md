@@ -2,7 +2,7 @@
 
 This source code is auto load address from postcode.
 
-Load "郵便番号-住所検索API" [link](https://zipaddress.net/).
+Load [郵便番号-住所検索API](https://zipaddress.net/).
 
 ## Usege
 
