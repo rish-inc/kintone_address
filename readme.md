@@ -1,9 +1,16 @@
 # Suggest to address from postcode for Kintone.
 
+This source code is auto load address from postcode.
+
+Load "郵便番号-住所検索API" [link](https://zipaddress.net/).
+
 ## Usege
 
 1. Load [jQuery](https://releases.jquery.com/) in Kintone.
 2. Load address,js in Kintone.
+
+<img width="616" alt="003" src="https://github.com/user-attachments/assets/a5443582-e2c6-45f7-8b37-cf152e31a397">
+
 
 ## Setting for Kintone
 
